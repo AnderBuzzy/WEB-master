@@ -1,0 +1,53 @@
+p{
+    color:rgb(5, 255, 56); font-size: 25px;
+    text-align: center;
+}
+li{
+    color:rgb(247, 153, 60); font-weight: unset;
+
+}
+h3{
+    color:gainsboro;
+    text-align: center;
+}
+.recipe{
+    color: maroon;
+    font-size: 30px;
+}
+li{
+    text-align: right;
+}
+h2{
+    text-align: left;
+}
+label{
+    background-color: khaki;
+}
+tr{
+    background-color: navy
+}
+table{
+    border-collapse: collapse;
+}
+div{
+    color: rgb(235, 0, 0);
+}
+form{
+    text-align: center;
+    transform: skew(20deg);
+}
+img{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right, khaki, yellow, rgb(123,123,123));
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background: blanchedalmond;
+    color: grey;
+}
